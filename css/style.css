@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(160,120,170);
+    text-align: center;
+}
+h1{    
+    /*text-shadow: 2px 2px black;*/
+    font-family: 'Lobster', serif, sans-serif;
+    
+}
+
+p{
+    font-family: 'Istok+Web:ital@1', serif, sans-serif;
+}
+.mchar{
+    padding: 0px 0px 0px 0px;
+    background-color: rgb(160,120,170);
+    border-width:0px;
+}
